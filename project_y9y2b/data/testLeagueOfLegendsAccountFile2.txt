@@ -1,0 +1,2 @@
+Europe West (EUW),Caps,50000,10000,Blitzcrank,Akali,Owned,Darius,Syndra,Recommended,Lucian,Sejuani,Fiddlesticks,Favourites
+People's Republic of China (CN),Uzi,30000,30000,Owned,Recommended,Favourites

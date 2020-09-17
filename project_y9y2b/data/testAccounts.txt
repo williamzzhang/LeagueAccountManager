@@ -1,0 +1,2 @@
+North America (NA),Doublelift,10000,1000,Blitzcrank,Akali,Owned,Darius,Syndra,Recommended,Lucian,Sejuani,Fiddlesticks,Favourites,
+Europe West (EUW),Caps,50000,10000,Owned,Recommended,Favourites,

@@ -1,0 +1,2 @@
+North America (NA),Doublelift,9200,2250,Lucian,Akali,Owned,Darius,Recommended,Blitzcrank,Favourites,
+Republic of Korea (KR),Faker,10000,10000,Owned,Recommended,Favourites,

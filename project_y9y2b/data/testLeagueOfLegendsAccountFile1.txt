@@ -1,0 +1,2 @@
+North America (NA),Doublelift,10000,1000,Lucian,Syndra,Owned,Darius,Fiddlesticks,Recommended,Lucian,Syndra,Favourites
+Republic of Korea (KR),Faker,10000,10000,Akali,Sejuani,Owned,Syndra,Blitzcrank,Recommended,Akali,Sejuani,Favourites
